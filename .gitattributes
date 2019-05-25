@@ -1,6 +1,0 @@
-*.md linguist-language=NodeJS 
-*.yml linguist-language=NodeJS
-*.html linguist-language=NodeJS
-*.js linguist-language=NodeJS
-*.scss linguist-language=NodeJS
-*.css linguist-language=NodeJS
