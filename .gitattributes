@@ -2,8 +2,5 @@
 *.yml linguist-language=NodeJS
 *.html linguist-language=NodeJS
 *.js linguist-language=NodeJS
-*.xml linguist-language=NodeJS
+*.scss linguist-language=NodeJS
 *.css linguist-language=NodeJS
-*.sql linguist-language=NodeJS
-*.uml linguist-language=NodeJS
-*.cmd linguist-language=NodeJS
