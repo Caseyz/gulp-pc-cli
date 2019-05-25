@@ -1,2 +1,9 @@
-*.h linguist-language=NodeJS
-*.m linguist-language=NodeJS
+*.md linguist-language=NodeJS 
+*.yml linguist-language=NodeJS
+*.html linguist-language=NodeJS
+*.js linguist-language=NodeJS
+*.xml linguist-language=NodeJS
+*.css linguist-language=NodeJS
+*.sql linguist-language=NodeJS
+*.uml linguist-language=NodeJS
+*.cmd linguist-language=NodeJS
